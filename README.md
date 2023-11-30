@@ -1,5 +1,7 @@
 # Nyan Keys Hardware Docs v0.8a
-Hardware documentation for the Nyan keys keyboard. MIT licensed so feel free to build and modify these designs.
+Hardware documentation for the Nyan keys keyboard. MIT licensed so feel free to build and modify these designs. Other elements of the project are licensed under the Apache-2.0 license purely to be accredited for the work I have put into this.
+
+Made with ❤️ by Portland.HODL - If you like my work please submit PRs and or like/star my repos.
 
 # Links to Firmware and FPGA Bitstream
 Nyan Keys has 4 other repositories that go along with the hardware designs listed below
