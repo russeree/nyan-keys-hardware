@@ -21,9 +21,9 @@ do the same.
 
 # Photos
 <div align="center">
- <img src="assets/assembled_0.jpg">
- <hr>
  <img src="assets/pcb_0.jpg">
+ <hr>
+ <img src="assets/assembled_0.jpg">
  <hr>
 </div>
 
