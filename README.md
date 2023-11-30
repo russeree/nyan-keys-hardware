@@ -1,6 +1,13 @@
 # Nyan Keys Hardware Docs v0.8a
 Hardware documentation for the Nyan keys keyboard. MIT licensed so feel free to build and modify these designs.
 
+# Links to Firmware and FPGA Bitstream
+Nyan Keys has 4 other repositories that go along with the hardware designs listed below
+ - [FGPA Bitstream](https://github.com/russeree/nyan-keys-ice40hx4k-bitstream)
+ - [STM32 Firmware](https://github.com/russeree/nyan-keys-stm32-firmware)
+ - [Web Serial API GUI - hosted](https://russeree.github.io/)
+ - [Web Serial API GUI - Source](https://github.com/russeree/nyan-keys-gui)
+ 
 # Schematics
 Schematics are provided as a .pdf file and will up to date with the latest release of Nyan keys hardware.
 
