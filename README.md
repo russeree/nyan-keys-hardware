@@ -7,7 +7,7 @@ Nyan Keys has 4 other repositories that go along with the hardware designs liste
  - [STM32 Firmware](https://github.com/russeree/nyan-keys-stm32-firmware)
  - [Web Serial API GUI - hosted](https://russeree.github.io/)
  - [Web Serial API GUI - Source](https://github.com/russeree/nyan-keys-gui)
- 
+
 # Schematics
 Schematics are provided as a .pdf file and will up to date with the latest release of Nyan keys hardware.
 
@@ -31,7 +31,6 @@ do the same.
     <img src="assets/pcb_0.jpg">
     <hr>
     <img src="assets/assembled_0.jpg">
-    <hr>
 </div>
 
 # Fabrication
@@ -47,7 +46,6 @@ do the same.
     <img src="assets/pcb_5.jpg">
     <hr>
     <img src="assets/pcb_6.jpg">
-    <hr>
 </div>
 
 <br>
