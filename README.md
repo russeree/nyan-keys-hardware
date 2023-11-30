@@ -42,8 +42,6 @@ do the same.
  <hr>
  <img src="assets/pcb_6.jpg">
  <hr>
- <img src="assets/pcb_7.jpg">
- <hr>
 </div>
 
 <br>
