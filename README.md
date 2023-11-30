@@ -23,9 +23,9 @@ do the same.
 <div align="center">
  <img src="assets/pcb_0.jpg">
  <hr>
- <img src="assets/pcb_1.jpg">
- <hr>
  <img src="assets/pcb_2.jpg">
+ <hr>
+ <img src="assets/pcb_1.jpg">
  <hr>
  <img src="assets/pcb_3.jpg">
  <hr>
