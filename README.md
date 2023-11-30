@@ -14,54 +14,48 @@ do the same.
 
 # Layout
 <div align="center">
- <img src="pcb_images/nyan_keys_pcb_080a.png">
+    <img src="pcb_images/nyan_keys_pcb_080a.png">
 </div>
 
 <br>
 
-# Photos
+# Finished Photos
 <div align="center">
- <img src="assets/pcb_0.jpg">
- <hr>
- <img src="assets/assembled_0.jpg">
- <hr>
+    <img src="assets/pcb_0.jpg">
+    <hr>
+    <img src="assets/assembled_0.jpg">
+    <hr>
 </div>
 
 # Fabrication
 <div align="center">
-
- <img src="assets/pcb_2.jpg">
- <hr>
- <img src="assets/pcb_1.jpg">
- <hr>
- <img src="assets/pcb_3.jpg">
- <hr>
- <img src="assets/pcb_4.jpg">
- <hr>
- <img src="assets/pcb_5.jpg">
- <hr>
- <img src="assets/pcb_6.jpg">
- <hr>
+    <img src="assets/pcb_2.jpg">
+    <hr>
+    <img src="assets/pcb_1.jpg">
+    <hr>
+    <img src="assets/pcb_3.jpg">
+    <hr>
+    <img src="assets/pcb_4.jpg">
+    <hr>
+    <img src="assets/pcb_5.jpg">
+    <hr>
+    <img src="assets/pcb_6.jpg">
+    <hr>
 </div>
 
 <br>
 
-# Assembled
+# Assembly
 <div align="center">
- <img src="assets/assembled_1.jpg">
-  <hr>
- <img src="assets/assembled_2.jpg">
-  <hr>
- <img src="assets/assembled_3.jpg">
-</div>
-
-<br>
-
-# Other
-<div align="center">
- <img src="assets/other_0.jpg">
- <hr>
- <img src="assets/other_1.jpg">
- <hr>
- <img src="assets/other_2.jpg">
+    <img src="assets/assembled_1.jpg">
+    <hr>
+    <img src="assets/assembled_2.jpg">
+    <hr>
+    <img src="assets/assembled_3.jpg">
+    <hr>
+    <img src="assets/other_0.jpg">
+    <hr>
+    <img src="assets/other_1.jpg">
+    <hr>
+    <img src="assets/other_2.jpg">
 </div>
