@@ -61,5 +61,4 @@ do the same.
  <img src="assets/other_1.jpg">
  <hr>
  <img src="assets/other_2.jpg">
- <hr>
 </div>
