@@ -19,10 +19,17 @@ do the same.
 
 <br>
 
-# Fabrication
+# Photos
 <div align="center">
+ <img src="assets/assembled_0.jpg">
+ <hr>
  <img src="assets/pcb_0.jpg">
  <hr>
+</div>
+
+# Fabrication
+<div align="center">
+
  <img src="assets/pcb_2.jpg">
  <hr>
  <img src="assets/pcb_1.jpg">
@@ -43,8 +50,6 @@ do the same.
 
 # Assembled
 <div align="center">
- <img src="assets/assembled_0.jpg">
- <hr>
  <img src="assets/assembled_1.jpg">
   <hr>
  <img src="assets/assembled_2.jpg">
