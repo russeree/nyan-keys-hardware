@@ -12,8 +12,54 @@ obtaining board files for personal use.
 At the end of the day, I want to sell the boards that designed and don't want other comercial entities with a low barrier to entry
 do the same.
 
-# PCB
+# Layout
 <div align="center">
  <img src="pcb_images/nyan_keys_pcb_080a.png">
 </div>
 
+<br>
+
+# Fabrication
+<div align="center">
+ <img src="assets/pcb_0.jpg">
+ <hr>
+ <img src="assets/pcb_1.jpg">
+ <hr>
+ <img src="assets/pcb_2.jpg">
+ <hr>
+ <img src="assets/pcb_3.jpg">
+ <hr>
+ <img src="assets/pcb_4.jpg">
+ <hr>
+ <img src="assets/pcb_5.jpg">
+ <hr>
+ <img src="assets/pcb_6.jpg">
+ <hr>
+ <img src="assets/pcb_7.jpg">
+ <hr>
+</div>
+
+<br>
+
+# Assembled
+<div align="center">
+ <img src="assets/assembled_0.jpg">
+ <hr>
+ <img src="assets/assembled_1.jpg">
+  <hr>
+ <img src="assets/assembled_2.jpg">
+  <hr>
+ <img src="assets/assembled_3.jpg">
+</div>
+
+<br>
+
+# Other
+<div align="center">
+ <img src="assets/other_0.jpg">
+ <hr>
+ <img src="assets/other_1.jpg">
+ <hr>
+ <img src="assets/other_2.jpg">
+ <hr>
+</div>
