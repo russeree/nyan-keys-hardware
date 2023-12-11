@@ -20,6 +20,8 @@ manufacturing of the board files for comerical purposees.
 
 Personal use is completely permissed for this so if you want to make one for yourself or mod it feel free!
 
+If you would like to avoid the logistics of acquiring the parts and getting a board made. I can fabricate and assemble boards on request. Please just email admin@qrsnap.io. 
+
 # Layout
 <div align="center">
     <img src="pcb_images/nyan_keys_pcb_080a.png">
