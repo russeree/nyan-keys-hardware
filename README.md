@@ -13,13 +13,12 @@ Nyan Keys has 4 other repositories that go along with the hardware designs liste
 # Schematics
 Schematics are provided as a .pdf file and will up to date with the latest release of Nyan keys hardware.
 
-# Where is the .brd file?
-There currently is a deliberate choice to not release a .brd file with this as I don't intend to allow Nyan Keys board to be produced
-commercially. As such I want to make sure the proper licenses are in place to do that. email admin@qrsnap.io if you are interested in
-obtaining board files for personal use.
+# Board Files
+Board files are located under the board_files direectory and were created in KiCad. These are licensed under
+Creative Commons Attribution-NonCommercial-NoDerivatives license currently to prevent direct copying and 
+manufacturing of the board files for comerical purposees.
 
-At the end of the day, I want to sell the boards that designed and don't want other commercial entities with a low barrier to entry
-do the same.
+Personal use is completely permissed for this so if you want to make on for yourself or mod it feel free!
 
 # Layout
 <div align="center">
