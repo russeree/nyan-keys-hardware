@@ -18,7 +18,7 @@ Board files are located under the board_files direectory and were created in KiC
 Creative Commons Attribution-NonCommercial-NoDerivatives license currently to prevent direct copying and 
 manufacturing of the board files for comerical purposees.
 
-Personal use is completely permissed for this so if you want to make on for yourself or mod it feel free!
+Personal use is completely permissed for this so if you want to make one for yourself or mod it feel free!
 
 # Layout
 <div align="center">
