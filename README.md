@@ -1,5 +1,5 @@
 # Nyan Keys Hardware Docs v0.8a
-Hardware documentation for the Nyan keys keyboard. MIT licensed so feel free to build and modify these designs. Other elements of the project are licensed under the Apache-2.0 license purely to be accredited for the work I have put into this.
+Hardware documentation for the Nyan keys keyboard. Mixed licenses everything other than the board files are licensed under Apache-2.0 and board files are licensed under Attribution-NonCommercial-NoDerivatives. 
 
 Made with ❤️ by Portland.HODL - If you like my work please submit PRs and or like/star my repos.
 
@@ -25,7 +25,7 @@ If you would like to avoid the logistics of acquiring the parts and getting a bo
 # Board Revisions
 | Board Version | Notes |
 | ------------- | ----- |
-| 0.8a          | Prototypes 000, 001 **_USB DP/DM Error_**
+| 0.8a          | Prototypes 000, 001 **_USB DP/DM Error_** |
 | 0.9a          | Initial Release - USB Error Fixed|
 | 0.9b          | Added DFU Soft Select, All 0402, Tag Connect with clips |
 
