@@ -14,13 +14,20 @@ Nyan Keys has 4 other repositories that go along with the hardware designs liste
 Schematics are provided as a .pdf file and will up to date with the latest release of Nyan keys hardware.
 
 # Board Files
-Board files are located under the board_files direectory and were created in KiCad. These are licensed under
+Board files are located under the board_files directory and were created in KiCad. These are licensed under
 Creative Commons Attribution-NonCommercial-NoDerivatives license currently to prevent direct copying and 
-manufacturing of the board files for comerical purposees.
+manufacturing of the board files for commercial purposes.
 
-Personal use is completely permissed for this so if you want to make one for yourself or mod it feel free!
+Personal use is completely premised for this so if you want to make one for yourself or mod it feel free!
 
 If you would like to avoid the logistics of acquiring the parts and getting a board made. I can fabricate and assemble boards on request. Please just email admin@qrsnap.io. 
+
+# Board Revisions
+| Board Version | Notes |
+| ------------- | ----- |
+| 0.8a          | Prototypes 000, 001 **_USB DP/DM Error_**
+| 0.9a          | Initial Release - USB Error Fixed|
+| 0.9b          | Added DFU Soft Select, All 0402, Tag Connect with clips |
 
 # Layout
 <div align="center">
